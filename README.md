@@ -1,7 +1,7 @@
 nodejs
 =========
 
-[Node.js](https://nodejs.org/)のインストールを行います
+[Node.js](https://nodejs.org/)のインストールを行います。
 
 Role Variables
 --------------
@@ -13,7 +13,7 @@ Role Variables
 
 ### nodejs_major_version
 
-インストールするnode.jsのメジャーバージョンを指定します
+インストールするnode.jsのメジャーバージョンを指定します。
 
 #### Example
 
